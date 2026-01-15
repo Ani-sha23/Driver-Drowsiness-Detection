@@ -1,4 +1,4 @@
-# 🚗Driver Drowsiness & Distraction Detection System
+# Driver Drowsiness & Distraction Detection System
 
 A real-time AI-based system that detects **driver drowsiness and distraction** using computer vision and deep learning.  
 This system helps prevent road accidents by monitoring eye movement, blinking rate, yawning, and head orientation.
@@ -14,7 +14,7 @@ The system works in real-time and can be deployed in cars, simulators, or monito
 
 ---
 
-## 🎯Features
+## Features
 
 ✔ Real-time face detection  
 ✔ Eye blink detection  
@@ -27,7 +27,7 @@ The system works in real-time and can be deployed in cars, simulators, or monito
 
 ---
 
-## 🧠Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |-----------|--------|
