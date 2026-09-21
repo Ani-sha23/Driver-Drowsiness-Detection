@@ -10,7 +10,7 @@ This system helps prevent road accidents by monitoring eye movement, blinking ra
 Driver fatigue and distraction are among the leading causes of road accidents worldwide.  
 This project uses a **webcam and deep learning models** to continuously monitor the driver and trigger alerts when signs of fatigue or distraction are detected.
 
-The system works in real-time and can be deployed in cars, simulators, or monitoring systems.
+The system works in real-time and can be deployed in simulators or monitoring systems.
 
 ---
 
